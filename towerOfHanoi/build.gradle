@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "org.farook.towerofhanoi"
+        minSdkVersion 15
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':andEngineAnchorCenter')
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+}

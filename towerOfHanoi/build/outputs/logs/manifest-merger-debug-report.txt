@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:2:1-27:12
+	xmlns:android
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:7:5-44
+MERGED from [TowerOfHanoiFull:andEngineAnchorCenter:unspecified] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoiFull\andEngineAnchorCenter\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:10:9-45
+activity#org.farook.towerofhanoi.TowerOfHanoiActivity
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:13:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:18:27-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:22:9-24:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:23:13-58
+	android:value
+		ADDED from C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\src\main\AndroidManifest.xml:24:13-66
+uses-feature#0x00020000
+ADDED from [TowerOfHanoiFull:andEngineAnchorCenter:unspecified] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoiFull\andEngineAnchorCenter\unspecified\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from [TowerOfHanoiFull:andEngineAnchorCenter:unspecified] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoiFull\andEngineAnchorCenter\unspecified\AndroidManifest.xml:13:9-32
+	android:glEsVersion
+		ADDED from [TowerOfHanoiFull:andEngineAnchorCenter:unspecified] C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoiFull\andEngineAnchorCenter\unspecified\AndroidManifest.xml:12:9-41

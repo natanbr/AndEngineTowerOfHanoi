@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoiFull\andEngineAnchorCenter\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="87e3dafa86f613b895d29c187a5fc4cc38d159c6">
+        <dex dex="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\pre-dexed\debug\TowerOfHanoiFull-andEngineAnchorCenter-unspecified_09684c8c49fb39c7887cfad4103d2e2722799c6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\nbraslav\Desktop\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_7615717b3fea4b08d2e6492d9478a5c99faa858e.jar" />
+    </item>
+    <item
+        jar="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_510ef229add8229fbc974492fb2bad0b8156b03b.jar" />
+    </item>
+    <item
+        jar="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_32ad26e1eae4f6c472058e9af007e6186d118e12.jar" />
+    </item>
+    <item
+        jar="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_32d51fc8520f7e74d4b20af90c10de93e27d4703.jar" />
+    </item>
+    <item
+        jar="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\nbraslav\StudioProjects\TowerOfHanoiFull\towerOfHanoi\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_ba646bd99a578ef4c1c4b151dd052d7d88d55fc2.jar" />
+    </item>
+
+</items>
